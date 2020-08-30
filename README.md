@@ -1,4 +1,5 @@
-# MyFirstDapp
+# MyFirstDapp: 
+This disrtibuted application get the data from user and then stored it on the blockchain. User can get the entered data from blockchain.
 
 Installation:  
 1) Ganache (Personal Blockchain)  
