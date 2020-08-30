@@ -1,0 +1,7 @@
+1)Uncaught Error: Returned values aren't valid, did it run Out of Gas?
+	this can also happen when the MNEMONIC value from Ganache is different from the one you have in your truffle.js or truffle-config.js file.
+	sol: migrate contract into truffle develop to call get function
+
+
+2)contract has not been deployed to detected network (network/artifact mismatch)
+	sol:I found my problem was that the metamask was on the wrong network. if it is ropsten then change into localhost:7545
